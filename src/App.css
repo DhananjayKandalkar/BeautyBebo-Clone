@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+.main-body{
+  padding:2rem 3.5rem;
+  color: black;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+:root {
+  --primary_pink: #DD0285;
+  --lightGrey_Txt1: #666666;
+  --darkGrey_Txt2: #222222;
+  --lightGrey_Txt3: #AAAAAA;
+  --lighterGrey_txt4: #999999;
+  --white: #FFFFFF;
+  --green: #008000;
+}

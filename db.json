@@ -1,0 +1,450 @@
+{
+    "newArrivals": [
+        {
+            "id" : 1,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/a/1a79400806360003527_1.jpg",
+            "title" : "Lotus Organics Precious",
+            "oldprice": "",
+            "newprice": "495.00",
+            "discount": "10"
+        },
+        {
+            "id" : 2,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/a/1a79400806360003527_1.jpg",
+            "title" : "lotus organics+ bakuchiol plant",
+            "oldprice": "887.00",
+            "newprice": "985.00",
+            "discount": "10"
+        },
+        {
+            "id" : 3,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/a/1a79400806360003527_1.jpg",
+            "title" : "lotus organics+ bakuchiol plant Retinol cream spf 20 pa+++",
+            "oldprice": "945.00",
+            "newprice": "851.00",
+            "discount": "10"
+        },
+        {
+            "id" : 4,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/0/806360002599_1.jpg",
+            "title" : "lotus organics+ ultra Matte Minaral Sunscren Spf 40 Pa+++ - 100%",
+            "oldprice": "595.00",
+            "newprice": "536.00",
+            "discount": "10"
+        },
+        {
+            "id" : 5,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/1777b1elotus00000016_p.jpg",
+            "title" : "lotus organics+ Precious Brightening Under Eye Creme",
+            "oldprice": "785.00",
+            "newprice": "707.00",
+            "discount": "10"
+        },
+        {
+            "id" : 6,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/d/1dac6ed806360008003_1.jpg",
+            "title" : "lotus Proffessional PhytoRx Precious Face Oil",
+            "oldprice": "795.00",
+            "newprice": "716.00",
+            "discount": "10"
+        },
+        {
+            "id" : 7,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/3/a3d41d2806360005439_p.jpg",
+            "title" : "lotus Proffessional Retemin Plant Retinol & Natural Vitamin C Face",
+            "oldprice": "475.00",
+            "newprice": "413.00",
+            "discount": "13"
+        },
+        {
+            "id" : 8,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/a/5a701d2806360005446_p.jpg",
+            "title" : "lotus Proffessional Retemin Plant Retinol & Natural Vitamin C",
+            "oldprice": "895.00",
+            "newprice": "806.00",
+            "discount": "10"
+        },
+        {
+            "id" : 9,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71qcqxxamnl._sl1500_.jpg",
+            "title" : "Lotus Herbal YouthRx Firm & Bright Cream SPF 20 PA+++",
+            "oldprice": "745.00",
+            "newprice": "671.00",
+            "discount": "10"
+        },
+        {
+            "id" : 10,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/2/3238216806360006474_1.jpg",
+            "title" : "Lotus Herbal YouthRx Firm & Bright Night Cream",
+            "oldprice": "925.00",
+            "newprice": "833.00",
+            "discount": "10"
+        },
+        {
+            "id" : 11,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/8/b884216806360006443_1.jpg",
+            "title" : "Lotus Herbal YouthRx Firm & Bright Face Wash",
+            "oldprice": "450.00",
+            "newprice": "396.00",
+            "discount": "12"
+        },
+        {
+            "id" : 12,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/e/2e326ed806360007990_1.jpg",
+            "title" : "lotus Proffessional PhytoRx Squalene Face Oil",
+            "oldprice": "795.00",
+            "newprice": "716.00",
+            "discount": "10"
+        },
+        {
+            "id" : 13,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/e/ceb86ed806360008010_1.jpg",
+            "title" : "lotus Proffessional PhytoRx Hyaluronic Acid + Vitamin E Booster",
+            "oldprice": "845.00",
+            "newprice": "761.00",
+            "discount": "10"
+        },
+         {
+            "id" : 14,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/3/33ca216806360006467_1.jpg",
+            "title" : "lotus Herbals YouthRx Firm & Bright Face Oil",
+            "oldprice": "745.00",
+            "newprice": "671.00",
+            "discount": "10"
+        },
+         {
+            "id" : 15,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/7/a725216806360006450_1.jpg",
+            "title" : "lotus Herbals YouthRx Firm & Bright Serum",
+            "oldprice": "845.00",
+            "newprice": "761.00",
+            "discount": "10"
+        },
+        {
+            "id" : 16,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416991_1_1.jpg",
+            "title" : "Organic Harvest Under Eye Gel",
+            "oldprice": "595.00",
+            "newprice": "536.00",
+            "discount": "10"
+        },
+        {
+            "id" : 17,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/a/ea9f39227553_s1-8901030896484.jpg",
+            "title" : "Vaseline Sun Protect & Calming Spf 30 Body Serum Lotion",
+            "oldprice": "",
+            "newprice": "449.00",
+            "discount": ""
+        },
+        {
+            "id" : 18,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/-/1-wbg_1_1024x1024.jpg",
+            "title" : "Plum Squalance & Vitamin E Face Oil",
+            "oldprice": "",
+            "newprice": "550.00",
+            "discount": ""
+        },
+        {
+            "id" : 19,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/-/1-wbg_a47b5191-edf8-4ed3-98c5-418fef417e82_1024x1024.jpg",
+            "title" : "Plum 3% Vitamin C Face Oil With 49% Squalane",
+            "oldprice": "",
+            "newprice": "550.00",
+            "discount": ""
+        },
+        {
+            "id" : 20,
+            "avatar": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/o/download.png",
+            "title" : "Plum Hemp Face Oil For Calms & Clarifies",
+            "oldprice": "",
+            "newprice": "490.00",
+            "discount": ""
+        }
+    ],
+
+
+
+
+    "products": [
+      {
+        "id": 1,
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3600522025252_super_liner_black_lacquer_i0.jpg",
+        "title": "L'Oreal Paris Superliner Black Lacquer",
+        "oldprice": "799.00",
+        "newprice": "719.00",
+        "ratings": "5",
+        "category": "Makeup",
+        "discount": "10"
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395666561_1.jpg",
+        "title": "L'Oreal Paris Brow Artist Xpert",
+        "oldprice": "749.00",
+        "newprice": "697.00",
+        "ratings": "5",
+        "category": "Makeup",
+        "discount": "7",
+        "id": 2
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/z/ezgif-3-24729a9b30.jpg",
+        "title": "L'Oreal Paris Super Liner Gel Intenza 36H - Profound Black",
+        "oldprice": "899.00",
+        "newprice": "809.00",
+        "ratings": "5",
+        "category": "Makeup",
+        "discount": "10",
+        "id": 3
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/d/cd13f79lorea00000154_8.jpg",
+        "title": "L'Oreal Paris Chiffon Signature",
+        "oldprice": "999.00",
+        "newprice": "899.00",
+        "ratings": "5",
+        "category": "Makeup",
+        "discount": "10",
+        "id": 4
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/f/6f830b98994993016525_8.jpg",
+        "title": "L'Oreal Paris Glycolic Bright Day Cream With SPF 17",
+        "oldprice": "699.00",
+        "newprice": "629.00",
+        "ratings": "4",
+        "category": "Skin",
+        "discount": "10",
+        "id": 5
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/1/11e10b98994993016563_8.jpg",
+        "title": "L'Oreal Paris Glycolic Bright Glowing Night Cream",
+        "oldprice": "729.00",
+        "newprice": "656.00",
+        "ratings": "5",
+        "category": "Skin",
+        "discount": "10",
+        "id": 6
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/1/f1e21ab6923700958621_5.jpg",
+        "title": "L'oreal Paris Revitalift Triple Action Renewing Anti-Aging Serum",
+        "oldprice": "1749.00",
+        "newprice": "1652.00",
+        "ratings": "5",
+        "category": "Skin",
+        "discount": "6",
+        "id": 7
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/0/004b656lorea00000096_2.jpg",
+        "title": "L'Oreal Paris Hydrafresh Anti-Ox Grape Seed Hydrating Milky Lotion",
+        "oldprice": "799.00",
+        "newprice": "719.00",
+        "ratings": "5",
+        "category": "Skin",
+        "discount": "10",
+        "id": 8
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/f/4f725balorea00000245_8.jpg",
+        "title": "L'Oreal Paris Extraordinary Oil Smooth Conditioner (Paraben Free) 440 Ml |",
+        "oldprice": "899.00",
+        "newprice": "999.00",
+        "ratings": "5",
+        "category": "Hair",
+        "discount": "10",
+        "id": 9
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/8/08195balorea00000247_8.jpg",
+        "title": "L'Oreal Paris Extraordinary Oil Smooth Shampoo(Paraben & Silicone Free)",
+        "oldprice": "899.00",
+        "newprice": "999.00",
+        "ratings": "5",
+        "category": "Hair",
+        "discount": "10",
+        "id": 10
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/c/fc6915f8901526603466_8.jpg",
+        "title": "L'Oreal Paris Hyaluron Moisture 72H Moisture Filling Shampoo",
+        "oldprice": "799.00",
+        "newprice": "719.00",
+        "ratings": "5",
+        "category": "Hair",
+        "discount": "10",
+        "id": 11
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/c/0c7d15f8901526603428_10.jpg",
+        "title": "L'Oreal Paris Hyaluron Moisture 72H Hydra Filling Night Cream Hair Cream",
+        "oldprice": "",
+        "newprice": "499.00",
+        "ratings": "5",
+        "category": "Hair",
+        "discount": "",
+        "id": 12
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/d/3dd79e8dovex00000087_new_4.jpg",
+        "title": "Dove Body Love Pro Age Body Butter, For Mature Skin, Paraben Free",
+        "oldprice": "414.00",
+        "newprice": "460.00",
+        "ratings": "5",
+        "category": "Personal Care",
+        "discount": "10",
+        "id": 13
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bebde6c44115_s1-8901030880896jpg.jpg",
+        "title": "Dove Derma Protect Moisturising Wash",
+        "oldprice": "",
+        "newprice": "475.00",
+        "ratings": "5",
+        "category": "Personal Care",
+        "discount": "",
+        "id": 14
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a0c917317394_s1_8901030844805.jpg",
+        "title": "Dove Rich Moisture Hypoallergenic Body Wash",
+        "oldprice": "",
+        "newprice": "400",
+        "ratings": "5",
+        "category": "Personal Care",
+        "discount": "",
+        "id": 15
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/e/aef7b5917552_s1_8901030875397.jpg",
+        "title": "Dove Deep Moisture Body Wash",
+        "oldprice": "",
+        "newprice": "460.00",
+        "ratings": "5",
+        "category": "Personal Care",
+        "discount": "",
+        "id": 16
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/a/6a855ed8901138512576ans__1_.jpg",
+        "title": "Himalaya Gentle Baby Shampoo",
+        "oldprice": "",
+        "newprice": "320",
+        "ratings": "5",
+        "category": "Mom & Baby Care",
+        "discount": "5",
+        "id": 17
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/0/c00c21e9318637043323_1.jpg",
+        "title": "Cetaphil Baby Massage Oil With Shea Butter",
+        "oldprice": "599.00",
+        "newprice": "630.00",
+        "ratings": "5",
+        "category": "Mom & Baby Care",
+        "discount": "5",
+        "id": 18
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/o/l/ol20.jpg",
+        "title": "Mamaearth Foaming Face Wash For Kids With Aloe Vera & Coconut For Gentle",
+        "oldprice": "",
+        "newprice": "349.00",
+        "ratings": "5",
+        "category": "Mom & Baby Care",
+        "discount": "",
+        "id": 19
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/o/coco-oil.jpg",
+        "title": "Mamaearth Coco Soft Massage Oil For New Born With Coconut & Turmeric Oil",
+        "oldprice": "339.00",
+        "newprice": "399.00",
+        "ratings": "5",
+        "category": "Mom & Baby Care",
+        "discount": "15",
+        "id": 20
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3600522025252_super_liner_black_lacquer_i0.jpg",
+        "title": "L'Oreal Paris Superliner Black Lacquer",
+        "oldprice": "719.00",
+        "newprice": "799.00",
+        "ratings": "5",
+        "category": "Eye",
+        "discount": "10",
+        "id": 21
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/9/6902395666561_1.jpg",
+        "title": "L'Oreal Paris Brow Artist Xpert",
+        "oldprice": "697.00",
+        "newprice": "749.00",
+        "ratings": "5",
+        "category": "Eye",
+        "discount": "7",
+        "id": 22
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/z/ezgif-3-24729a9b30.jpg",
+        "title": "L'Oreal Paris Super Liner Gel Intenza 36H - Profound Black",
+        "oldprice": "809.00",
+        "newprice": "899.00",
+        "ratings": "5",
+        "category": "Eye",
+        "discount": "10",
+        "id": 23
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/9/494e59c8901526105779_2.jpg",
+        "title": "L'Oreal Paris Kajal Magique Bold - Black",
+        "oldprice": "",
+        "newprice": "399.00",
+        "ratings": "5",
+        "category": "Eye",
+        "discount": "",
+        "id": 24
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/e/me-deodorant.jpg",
+        "title": "Mamaearth ME Deo For A Scent That’s Unique To You",
+        "oldprice": "",
+        "newprice": "299.00",
+        "ratings": "5",
+        "category": "Fragrance",
+        "discount": "",
+        "id": 25
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+        "title": "Calvin Klein Eternity For Men Eau De Parfum",
+        "oldprice": "3468.00",
+        "newprice": "3650.00",
+        "ratings": "0",
+        "category": "Fragrance",
+        "discount": "5",
+        "id": 26
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo21.jpg",
+        "title": "Fogg Bleu Series Island Fragrance Body Spray",
+        "oldprice": "",
+        "newprice": "255.00",
+        "ratings": "2",
+        "category": "Fragrance",
+        "discount": "",
+        "id": 27
+      },
+      {
+        "img": "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo20.jpg",
+        "title": "Fogg Force Fragrance Body Spray",
+        "oldprice": "",
+        "newprice": "230.00",
+        "ratings": "2",
+        "category": "Fragrance",
+        "discount": "",
+        "id": 28
+      }
+    ]
+  }
